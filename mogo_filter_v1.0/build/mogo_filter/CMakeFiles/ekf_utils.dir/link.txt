@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zc/zcwork/filter/mogo_filter_v1.0/devel/lib/libekf_utils.a  
+/usr/bin/ranlib /home/zc/zcwork/filter/mogo_filter_v1.0/devel/lib/libekf_utils.a

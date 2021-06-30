@@ -1,0 +1,2 @@
+mogo_filter
+-DCATKIN_DEVEL_PREFIX=/home/zc/zcwork/filter/mogo_filter_v1.0/devel -DCMAKE_INSTALL_PREFIX=/home/zc/zcwork/filter/mogo_filter_v1.0/install -G Unix Makefiles
